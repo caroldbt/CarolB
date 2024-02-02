@@ -69,4 +69,5 @@
     <img src="https://skillicons.dev/icons?i=aws,azure" alt="Azure, AWS">
   </a>
 </p>
-![caroldbt Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=caroldbt&theme=dark&show_icons=true&hide_border=false&layout=compact)
+![Tus Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=caroldbt&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
