@@ -61,7 +61,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode" alt="Eclipse, VisualStudio, Visual Studio Code">
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,idea" alt="Eclipse, VisualStudio, Visual Studio Code, Intellij">
   </a>
 </p>
 <p align="center">
