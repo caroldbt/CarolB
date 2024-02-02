@@ -47,3 +47,15 @@
  }
 
  ```
+<h2  align="center">💻Current Stack & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" alt="HTML, CSS, SASS, Bootstrap, JavaScript">
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,php,mysql,react" alt="Python, PHP, MySQL, React">
+  </a>
+</p>
