@@ -51,11 +51,21 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js" alt="HTML, CSS, SASS, Bootstrap, JavaScript">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,vue,react" alt="HTML, CSS, SASS, Bootstrap, JavaScript, Vue, React">
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,mysql,react" alt="Python, PHP, MySQL, React">
+    <img src="https://skillicons.dev/icons?i=androidstudio,py,php,java,mysql,postgres,dotnet,postman" alt="Android, Python, PHP, Java, MySQL, PostGreSql, C#, .Net, postman">
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode" alt="Eclipse, VisualStudio, Visual Studio Code">
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure" alt="Azure, AWS">
   </a>
 </p>
